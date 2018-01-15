@@ -13,4 +13,6 @@ printf ("even");
 else
 printf ("odd");
 }
+else
+  printf ("0");
 }
